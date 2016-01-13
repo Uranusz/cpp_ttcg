@@ -1,6 +1,6 @@
 # cpp_ttcg
 example source code of C++ template - The Complete Guide
-#
+# README by the author
 These are the examples from the following book:
  David Vandevoorde, Nicolai M. Josuttis
  C++ Template - The Complete Guide
